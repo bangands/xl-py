@@ -5,6 +5,12 @@
 *XL Direct Purchase Package*
 
 ----
+## Creator
+by Albertoanggi
+edited by Mr.A_S
+
+
+
 
 ## Requirement
 
